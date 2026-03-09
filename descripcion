@@ -1,0 +1,1 @@
+inicialmente mostramos una lista de los productos que se pueden aquirir, esto lo hacemos atravez de comando echo, posterior a ello recolectamos los datos que ingresa el usuario sobre los prodcutos que escoje atra vez de read, estos datos se suman y se general el valor total de la compra del producto 
